@@ -1,0 +1,19 @@
+{
+  "id": "mock-applicant-portal",
+  "name": "Sprout Apply",
+  "mark": "SA",
+  "tagline": "A fresh start, one step at a time.",
+  "colors": {
+    "background": "#f0f8ec",
+    "surface": "#ffffff",
+    "text": "#253f27",
+    "accent": "#3c662a"
+  },
+  "typography": {
+    "display": "Trebuchet MS, sans-serif",
+    "body": "Georgia, serif",
+    "tracking": "-.02em"
+  },
+  "style": "journey",
+  "radius": 30
+}
