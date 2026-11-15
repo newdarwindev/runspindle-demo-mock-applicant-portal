@@ -1,0 +1,17 @@
+{
+  "app": "mock-applicant-portal",
+  "title": "Applicant Portal \u00b7 Fictional demo",
+  "port": 4304,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "register",
+    "application-draft",
+    "written-screening",
+    "submit",
+    "advance",
+    "reconcile"
+  ]
+}
